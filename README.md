@@ -1,7 +1,8 @@
-# Live-Tools-V2
+# robot-trading-BB
 
 ## Set up
 
-> git clone https://github.com/CryptoRobotFr/Live-Tools-V2.git
 
-> bash Live-Tools-V2/install.sh
+> git clone https://github.com/Tyrion92/robot-trading-BB.git
+
+> bash robot-trading-BB/install.sh
